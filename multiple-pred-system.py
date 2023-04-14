@@ -26,13 +26,15 @@ with st.sidebar:
                           
                           ['Diabetes Prediction',
                            'Heart Disease Prediction',
-                           'Parkinsons Prediction'],
-                          icons=['activity','heart','person'],
+                           'Parkinsons Prediction',
+                           'Breast Cancer Prediction'],
+                          icons=['activity','heart','person','x-circle'],
                           default_index=0)
+
     st.divider()
     st.write("Made with :heart: by Satyam Soni")
     st.divider()
-    
+
 # Diabetes Prediction Page
 if (selected == 'Diabetes Prediction'):
     
@@ -243,4 +245,12 @@ if (selected == "Parkinsons Prediction"):
           parkinsons_diagnosis = "The person does not have Parkinson's disease"
         
     st.success(parkinsons_diagnosis)
-
+    
+# Breast Cancer Prediction Page
+if (selected == "Breast Cancer Prediction"):
+    
+    # page title
+    st.title("Breast Cancer Prediction using ML")
+        
+    st.subheader('Building Phase :sunglasses: Breast Cancer Prediction Model will be Available in few days')
+    
