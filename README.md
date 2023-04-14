@@ -15,11 +15,11 @@ https://satyamsoni228-multiple-disease-mode-multiple-pred-system-cogoup.streamli
 
 ## Screenshots
 
-[![1.png](https://i.postimg.cc/26MVPHFb/1.png)](https://postimg.cc/62VWZfPt)
+![1.png](https://i.postimg.cc/26MVPHFb/1.png)](https://postimg.cc/62VWZfPt)
 
-[![2.png](https://i.postimg.cc/ZKf1Z1vM/2.png)](https://postimg.cc/GHyMxgQF)
+![2.png](https://i.postimg.cc/ZKf1Z1vM/2.png)](https://postimg.cc/GHyMxgQF)
 
-[![3.png](https://i.postimg.cc/0yFFKDfG/3.png)](https://postimg.cc/k2NfkVLD)
+![3.png](https://i.postimg.cc/0yFFKDfG/3.png)](https://postimg.cc/k2NfkVLD)
 
 ## Contributing
 
