@@ -29,7 +29,9 @@ with st.sidebar:
                            'Parkinsons Prediction'],
                           icons=['activity','heart','person'],
                           default_index=0)
-
+    st.divider()
+    st.write("Made with :heart: by Satyam Soni")
+    st.divider()
     
 # Diabetes Prediction Page
 if (selected == 'Diabetes Prediction'):
